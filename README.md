@@ -1,4 +1,4 @@
-# Task API
+# CRUD API
 
 This project is a simple CRUD (Create, Read, Update, Delete) REST API built using FastAPI as part of the FlyRank Backend Assignment. The API stores tasks in memory and allows users to create, view, update, and delete tasks through HTTP endpoints.
 
