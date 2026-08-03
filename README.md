@@ -57,7 +57,8 @@ Once the server starts, open:
 curl -i -X POST http://localhost:8000/tasks ^ -H "Content-Type: application/json" ^ -d "{\"title\":\"Buy milk\"}"
 
 ## Swagger UI
-[Swagger UI](swagger.png)
+
+[Swagger UI](swagger_screenshot.png)
 
 
 
